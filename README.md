@@ -39,14 +39,15 @@ This project uses a Spotify tracks dataset containing metadata and audio feature
 - High-scoring tracks also tended to have slower or more moderate tempos
 
 ## Visualizations
+
 ### Correlation Heatmap
-![Correlation Heatmap](images/correlation_heatmap.png)
+![Correlation Heatmap](correlation_heatmap.png)
 
 ### Acousticness vs Energy
-![Acousticness vs Energy](images/acousticness_vs_energy.png)
+![Acousticness vs Energy](acousticness_vs_energy.png)
 
 ### High vs Low Focus Features
-![High vs Low Focus Features](images/high_vs_low_focus_features.png)
+![High vs Low Focus Features](high_vs_low_focus_features.png)
 
 ## Limitations
 The focus score is a simple heuristic based on selected audio features. It does not account for listener preference, lyrical meaning, personal study habits, or whether a track is music versus ambient or white-noise audio.
