@@ -57,4 +57,5 @@ The goal of the model is to explore how audio feature data can be combined to ap
 ## Files
 - `spotify_focus_music_analyzer.ipynb` — main notebook
 - `data/spotify_tracks.csv` — dataset
+- `images/` — saved visualizations
 
